@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMLExample>
+  <Person firstName="Peter" lastName="Oprea-Benko">
+    <Address>Croitorilor 12-14</Address>
+  </Person>
+</XMLExample>
